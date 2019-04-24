@@ -1,7 +1,7 @@
 /* Imports */
 @import "https://fonts.googleapis.com/css?family=Satisfy|Montserrat:300";
-@import "https://monstrousdev.github.io/themes/addons/user-tags.css";
-@import "https://monstrousdev.github.io/themes/addons/filter.css";
+@import "https://hell13cat.github.io/forProject/rebornmod/user-tags.css";
+@import "https://hell13cat.github.io/forProject/rebornmod/filter.css";
 
 /* Variables */
 :root {
@@ -466,7 +466,7 @@
 
 .homeIcon-tEMBK1 {
   background-color: var(--home-color);
-  -webkit-mask: url(https://monstrousdev.github.io/themes/assets/svgs/home.svg);
+  -webkit-mask: url(https://hell13cat.github.io/forProject/rebornmod/home.png);
   -webkit-mask-size: var(--home-size);
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
